@@ -31,7 +31,7 @@ jobs:
             [
               {
                 "id": "github",
-                "url": "https://maven.pkg.github.com/Music-Web-Micro-service/DemoA",
+                "url": "https://maven.pkg.github.com/Sma1lboy/DemoA",
                 "snapshots": {
                   "enabled": "true",
                   "updatePolicy": "true"
