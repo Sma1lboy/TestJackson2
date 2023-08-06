@@ -35,7 +35,7 @@ jobs:
             [
               {
                 "id": "github",
-                "url": "https://maven.pkg.github.com/Sma1lboy",
+                "url": "https://maven.pkg.github.com/Sma1lboy/*",
                 "snapshots": {
                   "enabled": "true",
                   "updatePolicy": "true"
